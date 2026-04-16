@@ -43,7 +43,7 @@ refactor: simplify input parsing logic
 docs: add workflow documentation
 ```
 
-If something needs more context, I use the expanded commmit message, usually in bullet points:
+If something needs more context, I use the expanded commit message, usually in bullet points:
 
 ```text
 type: short description

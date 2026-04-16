@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-This document outlines the workflow and habits I generally tend to follow when working on a (group) project. These aren't rigid rules, and I alter my approach on a case-by-base basis.
+This document outlines the workflow and habits I generally tend to follow when working on a (group) project. These aren't rigid rules, and I alter my approach on a case-by-case basis.
 
 ## Topics
 
